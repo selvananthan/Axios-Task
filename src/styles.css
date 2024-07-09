@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    margin-right: 10px;
+    padding-top: 5%;
+    scale: 25px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.card {
+    margin-bottom: 20px;
+    background: rgb(131,58,180);
+    background: linear-gradient(173deg, rgba(131,58,180,1) 0%, rgba(252,176,69,1) 0%, rgba(255,255,255,1) 69%);
+}
+
+.ml-2 {
+    margin-left: 0.5rem;
+}
+
